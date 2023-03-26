@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="my_spinner_prompt">請選擇一個選項</string>
+
+</resources>
